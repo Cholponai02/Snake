@@ -1,0 +1,15 @@
+D:\Acer\Desktop\Snake_Console\Snake_Console\bin\Debug\net6.0\Snake_Console.exe
+D:\Acer\Desktop\Snake_Console\Snake_Console\bin\Debug\net6.0\Snake_Console.deps.json
+D:\Acer\Desktop\Snake_Console\Snake_Console\bin\Debug\net6.0\Snake_Console.runtimeconfig.json
+D:\Acer\Desktop\Snake_Console\Snake_Console\bin\Debug\net6.0\Snake_Console.dll
+D:\Acer\Desktop\Snake_Console\Snake_Console\bin\Debug\net6.0\Snake_Console.pdb
+D:\Acer\Desktop\Snake_Console\Snake_Console\obj\Debug\net6.0\Snake_Console.csproj.AssemblyReference.cache
+D:\Acer\Desktop\Snake_Console\Snake_Console\obj\Debug\net6.0\Snake_Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\Acer\Desktop\Snake_Console\Snake_Console\obj\Debug\net6.0\Snake_Console.AssemblyInfoInputs.cache
+D:\Acer\Desktop\Snake_Console\Snake_Console\obj\Debug\net6.0\Snake_Console.AssemblyInfo.cs
+D:\Acer\Desktop\Snake_Console\Snake_Console\obj\Debug\net6.0\Snake_Console.csproj.CoreCompileInputs.cache
+D:\Acer\Desktop\Snake_Console\Snake_Console\obj\Debug\net6.0\Snake_Console.dll
+D:\Acer\Desktop\Snake_Console\Snake_Console\obj\Debug\net6.0\refint\Snake_Console.dll
+D:\Acer\Desktop\Snake_Console\Snake_Console\obj\Debug\net6.0\Snake_Console.pdb
+D:\Acer\Desktop\Snake_Console\Snake_Console\obj\Debug\net6.0\Snake_Console.genruntimeconfig.cache
+D:\Acer\Desktop\Snake_Console\Snake_Console\obj\Debug\net6.0\ref\Snake_Console.dll
